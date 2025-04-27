@@ -7,7 +7,7 @@ Welcome to my GitHub Portfolio! I am passionate about Data Analytics and trans
 | [Sales Performance Dashboard](https://github.com/DonaM32/sales-performance-dashboard) | Analyzed sales data to identify top products, cities, and trends | Excel |
 | [Customer Orders Analysis](https://github.com/DonaM32/customer-orders-analysis) | Analyzed customer orders and revenue by city and month | Excel |
 
-more projects will be added soon
+[more projects will be added soon]
 
 🛠 Skills
 * Microsoft Excel (Pivot Tables, Charts, Dashboarding)
