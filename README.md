@@ -7,7 +7,7 @@ Welcome to my GitHub Portfolio! I am passionate about Data Analytics and trans
 | [Sales Performance Dashboard](https://github.com/DonaM32/sales-performance-dashboard) | Analyzed sales data to identify top products, cities, and trends | Excel |
 | [Customer Orders Analysis](https://github.com/DonaM32/customer-orders-analysis) | Analyzed customer orders and revenue by city and month | Excel |
 | [Customer-Churn-Analysis](https://github.com/DonaM32/Customer-Churn-Analysis.git)| Analyzed churn behavior, monthly revenue, and key KPIs using PivotTables, slicers, and charts | Excel |
-| | evaluates the effectiveness of different marketing campaigns using key performance metrics and visual dashboards |
+| [Marketing-Campaign-Performance](https://github.com/DonaM32/Marketing-Campaign-Performance-.git)| Evaluated the effectiveness of different marketing campaigns using key performance metrics and visual dashboards | Excel |
 
 [more projects will be added soon]
 
